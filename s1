@@ -1,6 +1,7 @@
 hi good morning
 <<<<<<< HEAD
 today is monday , be active.:
+<<<<<<< HEAD
 making changes on s1 under master branch
 =======
 today is monday , be active.
@@ -12,3 +13,6 @@ adding some more line to SDN
 =======
 added 5th line to SDN
 >>>>>>> SDN
+=======
+making chnages to s1 file under auth branch:
+>>>>>>> auth
