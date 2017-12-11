@@ -1,3 +1,10 @@
 hi good morning
+<<<<<<< HEAD
 today is monday , be active.:
 making changes on s1 under master branch
+=======
+today is monday , be active.
+making edition to s1 file from SDN branch
+added 4th line to SDN
+>>>>>>> SDN
+adding some more line to SDN
