@@ -24,7 +24,3 @@ add chnages:
 hey y
 git add
 added
-
-#!/usr/bin pyhton
-for i in range(10):
-    print "hello"
